@@ -1,0 +1,15 @@
+/* CSS Document */
+
+/*body {
+	padding: 2em;
+}*/
+
+.jumbotron {
+	margin-top: 3em;
+}
+
+#pagination {
+	width: 17em;
+	display: block;
+	margin: auto;
+}
