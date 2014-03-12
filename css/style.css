@@ -35,6 +35,29 @@ body {
 	margin: auto;
 }
 
+.animals {
+	margin-top: 5em;
+}
+
+.faq {
+	margin-top: 2em;
+	background-color: #f7f7f9;
+}
+
+.faq h4 {
+	margin-top: 3em;
+	font-weight: bold;
+}
+
+.faq p {
+	font-size: 16px;
+	line-height: 30px; 
+}
+
+.animals h4 {
+	line-height: 30px;
+}
+
 #map-canvas {
 	height: 30em !important;
 	height: 100%;
